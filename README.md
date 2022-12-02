@@ -1,5 +1,5 @@
 # Laberinto
-LINK REPOSITORIO:
+LINK REPOSITORIO: https://github.com/lmiel/Laberinto.git
 ________________________________________________________________________________________________________________________________________
 Tarea 1
 La primera tarea consiste en construir un laberinto como el de la siguiente figura.
